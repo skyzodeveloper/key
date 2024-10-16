@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "whatsappNumber": "083857564133",
-      "password": "rafael"
+      "whatsappNumber": "6285752149527",
+      "password": "admin"
     },
     {
-      "whatsappNumber": "083846147781",
+      "whatsappNumber": "62877533994807",
       "password": "123"
     }
   ],
   "approvedUsers": [
     {
-      "whatsappNumber": "083857564133",
-      "token": "rafael123"
+      "whatsappNumber": "6285752149527",
+      "token": "admin"
     },
     {
-      "whatsappNumber": "083846147781",
-      "token": "rafael123"
+      "whatsappNumber": "62877533994807",
+      "token": "xnafv5"
     }
   ]
 }
